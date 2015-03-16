@@ -1,11 +1,16 @@
-diff --git a/test.java b/test.java
-index 08e41ba..d9856da 100644
---- a/test.java
-+++ b/test.java
-@@ -4,6 +4,5 @@ class
- 	{
- 		System.out.println("Hello World!");
- 		// test Add
--		// test Add 2
- 	}
- }
+diff --git a/patch.diff b/patch.diff
+index 84c7994..e69de29 100644
+--- a/patch.diff
++++ b/patch.diff
+@@ -1,11 +0,0 @@
+-diff --git a/test.java b/test.java
+-index 08e41ba..d9856da 100644
+---- a/test.java
+-+++ b/test.java
+-@@ -4,6 +4,5 @@ class
+- 	{
+- 		System.out.println("Hello World!");
+- 		// test Add
+--		// test Add 2
+- 	}
+- }
