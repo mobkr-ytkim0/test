@@ -1,0 +1,11 @@
+diff --git a/test.java b/test.java
+index 08e41ba..d9856da 100644
+--- a/test.java
++++ b/test.java
+@@ -4,6 +4,5 @@ class
+ 	{
+ 		System.out.println("Hello World!");
+ 		// test Add
+-		// test Add 2
+ 	}
+ }
